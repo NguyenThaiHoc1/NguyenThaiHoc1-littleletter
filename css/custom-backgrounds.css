@@ -1,0 +1,26 @@
+
+
+/* .ft-page {
+    background-position: center center;
+    background-size: cover;
+} */
+
+.page-1 {
+    background-image: url('images/howl050.jpg');
+}
+
+
+.ft-page {
+	/* -moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	box-sizing:border-box; */
+	width:100%;
+	height:100%;
+	/* position:relative;
+	z-index:auto;
+	-o-transform:translateZ(0);
+	-ms-transform:translateZ(0);
+	-moz-transform:translateZ(0);
+	-webkit-transform:translateZ(0);
+	transform:translateZ(0) */
+}
