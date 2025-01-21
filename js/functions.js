@@ -79,7 +79,7 @@ function startHeartAnimation() {
             str = str.replace(/[ ]+/g, " ")
             $ele.html('');
             // audioPlay();
-            audioframe();
+            // audioframe();
             
             // document.addEventListener('click', musicPlay);
 
